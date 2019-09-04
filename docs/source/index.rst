@@ -7,10 +7,11 @@ Welcome to qppcad's documentation!
 ==================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
-
+   qppcad
+   qpp
 
 Indices and tables
 ==================

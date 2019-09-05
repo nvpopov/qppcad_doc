@@ -2,12 +2,10 @@ qpp::cad
 ==================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    overview
-   getting_the_software
-   qppcad_build
    ws_items
    file_formats
    tools
@@ -15,3 +13,4 @@ qpp::cad
    embedded_cluster_tools
    how_to
    sflow
+   qppcad_gallery

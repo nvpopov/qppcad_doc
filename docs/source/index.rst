@@ -3,15 +3,28 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to qppcad's documentation!
-==================================
+Welcome to qpp::cad's documentation!
+====================================
+
+.. image:: images/icon_big.png
+
+.. image:: images/qppcad_coolage.jpg
+
+**qpp::cad** is the molecule and crystal editor written in c++.
+
+This documentation divided into three essential parts:
+
+#. **qpp::cad** - documentation for visualization program
+#. **qpp** - documentation for c++ framework for computational chemistry 
+#. **pyqpp** - documentation for python bindings for qpp
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :caption: Contents:
 
    qppcad
    qpp
+   pyqpp
 
 Indices and tables
 ==================

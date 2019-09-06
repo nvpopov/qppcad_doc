@@ -7,3 +7,5 @@ Examples and How-to
 
    example_supercell
    example_volumes
+   example_sublattices
+   example_find_point_symmetry

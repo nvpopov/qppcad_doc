@@ -11,12 +11,12 @@ Source code can be obtained from https://github.com/nvpopov/qppcad
 
 This documentation divided into three parts:
 
-#. **qpp::cad** - Documentation for visualization program
-#. **qpp** - Documentation for c++ framework for computational chemistry
-#. **pyqpp** - Documentation for python bindings for qpp
+#. **qpp::cad** - visualization program
+#. **qpp** -  c++ framework for computational chemistry
+#. **pyqpp** - python bindings for qpp
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    qppcad

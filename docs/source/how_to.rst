@@ -9,3 +9,4 @@ Examples and How-to
    example_volumes
    example_sublattices
    example_find_point_symmetry
+   example_align_displ

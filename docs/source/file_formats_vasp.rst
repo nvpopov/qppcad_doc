@@ -1,2 +1,0 @@
-VASP(POSCAR, CONTCAR, CHGCAR)
-==================================

@@ -6,6 +6,8 @@ qpp::cad
    :caption: Contents:
 
    overview
+   getting_the_software
+   qppcad_build
    ws_items
    file_formats
    tools

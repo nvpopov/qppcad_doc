@@ -19,7 +19,7 @@ This documentation divided into three essential parts:
 #. **pyqpp** - Documentation for python bindings for qpp
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :caption: Contents:
 
    qppcad
